@@ -50,6 +50,7 @@ Discord: _Dmytro Lykholit (**@lixolitr**)_
 
 **PJSC "Zaporizhavtotrans"**
 | YEAR | POSITION |
+| ---- | -------- |
 | 2006 | System administrator|
 | 2012 | Head of IT department |
 
