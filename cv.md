@@ -9,9 +9,13 @@
 #### Contact me
 
 Telegram: [@lixolitr](https://t.me/lixolitr)
+
 E-mail: <lixolitr@gmail.com>
+
 Github: [lixolitr](https://github.com/lixolitr)
+
 LinkedIn: [Dmytro Lykholit](https://linkedin.com/in/dmytro-lykholit)
+
 Discord: _Dmytro Lykholit (**@lixolitr**)_
 
 ---
@@ -44,11 +48,8 @@ Discord: _Dmytro Lykholit (**@lixolitr**)_
 
 #### Work Experince
 
-#####
-
 **PJSC "Zaporizhavtotrans"**
-| Year | Position |
-| ------ | ------ |
+| YEAR | POSITION |
 | 2006 | System administrator|
 | 2012 | Head of IT department |
 
@@ -69,5 +70,7 @@ function disemvowel(str) {
   return str.replace(/[aoiue]/ig, '');
 }
 ```
+
+---
 
 ![](https://rs.school/images/rs_school.svg)
