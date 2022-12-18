@@ -1,1 +1,1 @@
-https://github.com/lixolitr/rsschool-cv/tree/rsschool-cv-html
+https://github.com/lixolitr/rsschool-cv/index.html
