@@ -46,7 +46,7 @@ Discord: _Dmytro Lykholit (**@lixolitr**)_
 
 ---
 
-#### Work Experince
+#### Work Experience
 
 **PJSC "Zaporizhavtotrans"**
 | YEAR | POSITION |
